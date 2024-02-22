@@ -6,6 +6,6 @@ for i in range(100):
     if (i % 3 == 0):
         print(i)
 
-
+#bugfix
 #some additions to the code 1
 #some additions to the code 2
