@@ -10,3 +10,5 @@ for i in range(20):
 for j in range(100):
     if (j % 5 == 0):
         print(j)
+
+#some additions to the code 1
