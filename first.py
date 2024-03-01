@@ -9,8 +9,8 @@ for i in range(20):
 #second bugfix
 for j in range(100):
     if (j % 5 == 0):
-        print(j * 3)
-# in the meantime, main was altered
+        print(j * 2)
+#bugfix
 #some additions to the code 1
 #feature 1 addition
 #feature 1 addition 2
@@ -19,5 +19,5 @@ for j in range(100):
 #feature 2 completed
         
 #right added
-#altered main while branch 4 developed
+#some more changes
         
